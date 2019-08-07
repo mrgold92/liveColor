@@ -1,0 +1,28 @@
+{
+    "name": "dark",
+    "displayName": "LiveColor",
+    "description": "color theme",
+    "version": "0.0.1",
+    "author": "David Salazar Rodero",
+    "publisher": "liveColor",
+    "icon": "img/icono.png",
+    "engines": {
+        "vscode": "^1.36.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "liveColor",
+                "uiTheme": "vs-dark",
+                "path": "./themes/liveColor-color-theme.json"
+            }
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "directory": "https://github.com/mrgold92/liveColor"
+    }
+}
