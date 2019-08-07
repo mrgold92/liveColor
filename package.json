@@ -23,6 +23,6 @@
     },
     "repository": {
         "type": "git",
-        "directory": "https://github.com/mrgold92/liveColor"
+        "url": "https://github.com/mrgold92/liveColor"
     }
 }
